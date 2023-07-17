@@ -75,7 +75,7 @@
   <a href="#" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/instagram-512.png" width="35"/></a>
  <a href="#" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/linkedin-512.png" width="35" /></a>
  <a href="#" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/twitter-512.png" width="35" /></a>
- <a href="mailto:starDev1202@outlook.com?subject=Subject%20line&body=Email%20body%20text" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/gmail-logo-512.png" width="35"/></a>
+ <a href="http://starDev1202@outlook.com" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/gmail-logo-512.png" width="35"/></a>
 </p>
 
 <!-- ###### END OF SOCIAL MEDIA LINKS ##### -->
